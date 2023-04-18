@@ -1,0 +1,123 @@
+{
+  "users": [
+    {
+      "name": "krishn",
+      "email": "krishna@gamil.com",
+      "password": "123456",
+      "id": 4
+    },
+    {
+      "name": "expample",
+      "email": "exm.@em.pl",
+      "password": "151515",
+      "id": 7
+    },
+    {
+      "name": "ajuba",
+      "email": "ajub@gmail.com",
+      "password": "151515",
+      "id": 8
+    },
+    {
+      "name": "chkrishna",
+      "email": "krishna@gmail.com",
+      "password": "123",
+      "id": 9
+    },
+    {
+      "name": "krishna",
+      "email": "krishna@gmail.com",
+      "password": "12345",
+      "id": 10
+    },
+    {
+      "name": "mohan",
+      "email": "mohan@gmail.com",
+      "password": "1234",
+      "id": 11
+    }
+  ],
+  "money": [
+    {
+      "type": "Income",
+      "category": "Salary",
+      "amount": "10000",
+      "date": "2023-04-12",
+      "email": "krishna@gamil.com",
+      "password": "133456",
+      "id": 1
+    },
+    {
+      "type": "Expense",
+      "category": "Shopping",
+      "amount": "5000",
+      "date": "2023-04-11",
+      "email": "ajub@gmail.com",
+      "password": "151515",
+      "id": 2
+    },
+    {
+      "type": "Income",
+      "category": "Salary",
+      "amount": "80000",
+      "date": "2023-04-05",
+      "email": "ajub@gmail.com",
+      "password": "151515",
+      "id": 3
+    },
+    {
+      "type": "Expense",
+      "category": "Food & Drinks",
+      "amount": "32323",
+      "date": "2023-04-05",
+      "email": "krishna@gamil.com",
+      "password": "133456",
+      "id": 4
+    },
+    {
+      "type": "Income",
+      "category": "Salary",
+      "amount": "45555",
+      "date": "2023-04-05",
+      "email": "krishna@gmail.com",
+      "password": "12345",
+      "id": 5
+    },
+    {
+      "type": "Expense",
+      "category": "Bills",
+      "amount": "6555",
+      "date": "2023-04-12",
+      "email": "krishna@gmail.com",
+      "password": "12345",
+      "id": 6
+    },
+    {
+      "type": "Expense",
+      "category": "Shopping",
+      "amount": "78888",
+      "date": "2023-04-13",
+      "email": "mohan@gmail.com",
+      "password": "1234",
+      "id": 7
+    },
+    {
+      "type": "Income",
+      "category": "Salary",
+      "amount": "50000",
+      "date": "2023-04-01",
+      "email": "krishna@gamil.com",
+      "password": "123456",
+      "id": 8
+    },
+    {
+      "type": "Expense",
+      "category": "Food & Drinks",
+      "amount": "10000",
+      "date": "2023-04-07",
+      "email": "krishna@gamil.com",
+      "password": "123456",
+      "id": 9
+    }
+  ]
+}
